@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nathanip101.github.io/static/css/main.9eb05e09.css",
+    "main.js": "/nathanip101.github.io/static/js/main.28e80eb1.js",
+    "static/js/674.96dba7cf.chunk.js": "/nathanip101.github.io/static/js/674.96dba7cf.chunk.js",
+    "index.html": "/nathanip101.github.io/index.html",
+    "main.9eb05e09.css.map": "/nathanip101.github.io/static/css/main.9eb05e09.css.map",
+    "main.28e80eb1.js.map": "/nathanip101.github.io/static/js/main.28e80eb1.js.map",
+    "674.96dba7cf.chunk.js.map": "/nathanip101.github.io/static/js/674.96dba7cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb05e09.css",
+    "static/js/main.28e80eb1.js"
+  ]
+}
