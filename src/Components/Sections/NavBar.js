@@ -1,5 +1,7 @@
 import { memo } from 'react';
 import { SectionId } from '../../data/data';
+import { classnames } from 'tailwindcss-classnames';
+import { NavLink } from 'react-router-dom';
 
 const NavBar = memo(() => {
     const baseClass = "-m-1.5 p-1.5 rounded-md font-bold first-letter:uppercase hover:transition-colors hover:duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-500 sm:hover:text-orange-500 text-neutral-100";
@@ -11,7 +13,8 @@ const NavBar = memo(() => {
                     <a
                         key={section}
                         href={`/#${section}`}
-                        className={baseClass}>{section}
+                        className={baseClass}>
+                        {section}
                     </a>
                 )}
             </nav>

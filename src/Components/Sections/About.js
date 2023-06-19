@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { memo } from 'react';
-import { classnames as classnames } from 'tailwindcss-classnames';
+import { classnames } from 'tailwindcss-classnames';
 
 import { aboutData, SectionId } from '../../data/data';
 import Section from '../Layout/Section';
