@@ -12,7 +12,7 @@ const NavBar = memo(() => {
                 {navSections.map((section) =>
                     <a
                         key={section}
-                        href={`/#${section}`}
+                        href={section === SectionId.Work ? 'https://nathanipmedia.pixieset.com' : `/#${section}`}
                         className={baseClass}>
                         {section}
                     </a>
