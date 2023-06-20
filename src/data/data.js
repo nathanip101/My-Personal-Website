@@ -26,8 +26,7 @@ export const aboutData = {
   Other passions include photography, videography, and both live and studio sound engineering.`,
   aboutItems: [
     { label: 'Location', text: 'San Luis Obispo, California', Icon: faMap },
-    { label: 'Interests', text: 'Music, Photogrpahy, Audio Engineering, Tennis', Icon: faGamepad },
+    { label: 'Interests', text: 'Music, Photography, Audio Engineering, Tennis', Icon: faGamepad },
     { label: 'Study', text: 'Cal Poly, San Luis Obispo', Icon: faGraduationCap },
-    { label: 'Employment', text: 'Amazon', Icon: faBuilding },
   ],
 };
