@@ -10,7 +10,7 @@ const Footer = memo(() => {
                 <div className="flex gap-x-4 text-neutral-500">
                     <Socials />
                 </div>
-                <span className="text-sm text-neutral-700">© Copyright 2023 Nathan Ip</span>
+                <span className="text-sm text-neutral-700">© Copyright 2024 Nathan Ip</span>
             </div>
         </div>
     );
